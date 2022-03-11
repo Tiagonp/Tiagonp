@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-<div>
-  <a href="https://github.com/rafaballerini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tiagonp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagonp&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<span>
+  <a href="https://github.com/Tiagonp">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tiagonp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagonp&layout=compact&langs_count=7&theme=dracula"/>
+</span>
